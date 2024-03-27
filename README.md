@@ -17,7 +17,7 @@ This project is a mobile application developed with React Native, designed to fe
 ### Prerequisites
 
 - Node.js
-- React Native CLI
+- React Native Expo
 - Android Studio or Xcode (for iOS development)
 
 ### Installation
@@ -49,14 +49,13 @@ This project is a mobile application developed with React Native, designed to fe
    - **iOS:**
 
      ```
-     cd ios && pod install && cd ..
-     npx react-native run-ios
+     npx expo run:ios
      ```
 
    - **Android:**
 
      ```
-     npx react-native run-android
+     npx expo run:android
      ```
 
 ## Project Structure
@@ -78,12 +77,3 @@ This project is a mobile application developed with React Native, designed to fe
 
 - Integrate a more advanced search feature with filters for dates and popularity.
 - Enhance the favorites feature to sync across devices using cloud storage.
-
-## Contributions
-
-Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
