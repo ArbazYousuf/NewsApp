@@ -1,0 +1,7 @@
+export const NEWS = 'NEWS';
+export const NEWS_SUCCESS = 'NEWS_SUCCESS';
+export const NEWS_FAIL = 'NEWS_FAIL';
+
+export const NEWS_CATEGORY = 'NEWS_CATEGORY';
+export const NEWS_CATEGORY_SUCCESS = 'NEWS_CATEGORY_SUCCESS';
+export const NEWS_CATEGORY_FAIL = 'NEWS_CATEGORY_FAIL';
